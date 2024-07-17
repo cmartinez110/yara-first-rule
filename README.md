@@ -1,0 +1,1 @@
+# yara-first-rule
